@@ -17,7 +17,7 @@ The source code given in this public repo is for educational use only. Stealing 
 
 # Some updates about the project
 
-Life being as it is, I was not able to work on this project at all for the last 8 months, and maybe won't be able to for the next few. The project is not dead though, I am just unable to work on it now. Some issues have been submitted regarding the language.h library not being detected. I cannot say with certainty why that is, but if I remember it's just a question of checking your path. I hope to be able to come back to this project as soon as possible, thanks for your understanding.
+Life being as it is, I was not able to work on this project at all for the last 8 months, and maybe won't be able to for the next few. The project is not dead though, I am just unable to work on it now. Some issues have been submitted regarding the language.h library not being detected just add the whole file path and it will solve your issue. I hope to be able to come back to this project as soon as possible, thanks for your understanding.
 
 # Demonstration & How tos
 
